@@ -1,5 +1,5 @@
 
-#Pokemon Api Information
+#Pokemon GO Information
 
 ## pokemon useful url
 ### Play Pokemon on PC
