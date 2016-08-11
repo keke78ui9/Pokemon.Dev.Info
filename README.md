@@ -2,6 +2,11 @@
 #Pokemon Api Information
 
 ## pokemon useful url
+### Play Pokemon on PC
+###### it's virtual machine running on your PC
+http://en.bignox.com/pokemongo
+### Play Pokemon on PC's video
+https://www.youtube.com/watch?v=_PwRgtWpAMs&feature=youtu.be
 ### pokeapi.co
 https://pokeapi.co/docsv2/#locations-section
 ### pokeapi youtube 
